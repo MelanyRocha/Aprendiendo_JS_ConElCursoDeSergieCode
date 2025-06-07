@@ -1,0 +1,1 @@
+document.getElementById('demostracion2').innerHTML = 'Texto generadoado por JavaScript en una carpeta aparte';
