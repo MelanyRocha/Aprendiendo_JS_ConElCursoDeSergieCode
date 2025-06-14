@@ -15,4 +15,8 @@ nombreDeLaVariable3 = "Ricardo";
 nombreDeLaVariable3 = "Lucia";
 nombreDeLaVariable3 = "Mel";
 // declarar variables al mismo tiempo
+let x,y,z;
+x = 10;
+y = 20;
+z = 30;
 
