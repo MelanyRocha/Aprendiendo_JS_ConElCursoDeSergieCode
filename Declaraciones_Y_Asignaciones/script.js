@@ -1,9 +1,7 @@
 // Declaraciones
 // var se puede redeclara y puede tener errores, por eso casi no se usa
 var nombreDeLaVariable = "Pedro";
-var nombreDeLaVariable = "Ricardo";
-var nombreDeLaVariable = "Lucia";
-var nombreDeLaVariable = "Mel";
+
 var nombreDeLaVariable // var permite declarar sin valor
 let nombreDeLaVariable2  // let permite declarar sin valor
 const nombreDeLaVariable3 = "Valor de la variable 3"; // const no permite declarar sin valor
