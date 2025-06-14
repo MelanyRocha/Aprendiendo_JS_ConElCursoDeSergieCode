@@ -3,6 +3,7 @@
 var nombreDeLaVariable = "Pedro";
 
 var nombreDeLaVariable // var permite declarar sin valor
+// let y const no se pueden redeclarar
 let nombreDeLaVariable2  // let permite declarar sin valor
 const nombreDeLaVariable3 = "Valor de la variable 3"; // const no permite declarar sin valor
 // Scope
