@@ -20,4 +20,8 @@ x = 10;
 y = 20;
 z = 30;
 a = x+y+z;
+// tener cuidado porque ambos van a apuntar al mismo espacio de memoria
+let b = 5;
+
+let c = b
 
