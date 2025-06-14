@@ -14,4 +14,5 @@ nombreDeLaVariable3 = "Pedro";
 nombreDeLaVariable3 = "Ricardo";
 nombreDeLaVariable3 = "Lucia";
 nombreDeLaVariable3 = "Mel";
+// declarar variables al mismo tiempo
 
