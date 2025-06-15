@@ -20,6 +20,8 @@ x = 10;
 y = 20;
 z = 30;
 a = x+y+z;
+// el ; tambien se puede usar de la siguiente  manera
+
 // tener cuidado porque ambos van a apuntar al mismo espacio de memoria
 let b = 5;
 
