@@ -15,13 +15,13 @@ nombreDeLaVariable3 = "Ricardo";
 nombreDeLaVariable3 = "Lucia";
 nombreDeLaVariable3 = "Mel";
 // declarar variables al mismo tiempo
-let x,y,z,a;
+let x, y, z, a;
 x = 10;
 y = 20;
 z = 30;
-a = x+y+z;
+a = x + y + z;
 // el ; tambien se puede usar de la siguiente  manera
-x=5;y=10;z=15;
+x = 5; y = 10; z = 15;
 // tener cuidado porque ambos van a apuntar al mismo espacio de memoria
 let b = 5;
 
