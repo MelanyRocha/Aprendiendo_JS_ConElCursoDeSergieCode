@@ -26,7 +26,8 @@ x = 5; y = 10; z = 15;
 let b = 5;
 
 let c = b
-// 
+// constante que viene de la base de datos del cliente
 const datoQueVieneDeLaBaseDeDatosDelCliente = 
     'Pedro';
+//
 
