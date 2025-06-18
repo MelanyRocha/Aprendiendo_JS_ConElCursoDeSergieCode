@@ -30,4 +30,8 @@ let c = b
 const datoQueVieneDeLaBaseDeDatosDelCliente = 
     'Pedro';
 //
+function nombreDeLaFuncion() {
+    const nombreVariable = 'Variable dentro de Funcion'
+}
+
 
