@@ -26,4 +26,7 @@ x = 5; y = 10; z = 15;
 let b = 5;
 
 let c = b
+// 
+const datoQueVieneDeLaBaseDeDatosDelCliente = 
+    'Pedro';
 
