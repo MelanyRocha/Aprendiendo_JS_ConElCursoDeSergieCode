@@ -32,6 +32,6 @@ const datoQueVieneDeLaBaseDeDatosDelCliente =
 // funcion
 function nombreDeLaFuncion() {
     const nombreVariable = 'Variable dentro de Funcion'
-}
+}// Las llaves encierran el bloque de codigo o ambientes de trabajo
 
 
