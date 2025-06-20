@@ -29,7 +29,7 @@ let c = b
 // constante que viene de la base de datos del cliente
 const datoQueVieneDeLaBaseDeDatosDelCliente = 
     'Pedro';
-//
+// funcion
 function nombreDeLaFuncion() {
     const nombreVariable = 'Variable dentro de Funcion'
 }
