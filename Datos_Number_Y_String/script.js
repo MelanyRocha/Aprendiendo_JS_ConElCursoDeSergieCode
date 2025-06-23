@@ -1,0 +1,2 @@
+// NUMEROS
+let variable = valor
