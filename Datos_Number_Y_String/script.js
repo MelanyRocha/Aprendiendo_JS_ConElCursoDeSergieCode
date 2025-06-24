@@ -1,4 +1,4 @@
 // NUMEROS
 let variable = valor
-let variable2 = 10
+let variableNumero = 10
 
