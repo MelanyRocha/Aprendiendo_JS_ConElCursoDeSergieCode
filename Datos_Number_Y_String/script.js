@@ -7,5 +7,8 @@ let variableNegativo = -10 // valor negativo
 let variableTexto = 'Texto' // valor String (cadena de caracteres)
 let variableTexto2 = "Texto"
 let variableTexto3 = `Esta es una variable distinta ${variableNumero}` // `` permiten poner variables dentro del texto
+let variableTexto4 = `Numero ${variableNumero}`;
 let char = 'a';
+
+
 
